@@ -926,6 +926,38 @@
         "start": "2021-05-11T23:00:00.000Z",
         "end": "2021-05-12T00:00:00.000Z"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.45477001600011,
+          25.041730006000023
+        ]
+      },
+      "properties": {
+        "no": 54,
+        "case": "案1203相關群聚案",
+        "start": "2021-05-04T10:00:00.000Z",
+        "location": "晶華亭餐廳",
+        "investigating": true,
+        "estimated": true,
+        "address": "新北市新莊區中港路199號"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "no": 55
+      }
     }
   ]
 }
