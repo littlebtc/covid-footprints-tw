@@ -16,13 +16,10 @@ declare global {
 global.fetch = fetch
 global.FormData = FormData
 
-const AIRTABLE_BASE_ID = "appEFxULTeOODbZ5L"
-const ESRI_API_KEY = ""
-
-const esriApiKey = new ApiKey({ key: ESRI_API_KEY })
+const esriApiKey = new ApiKey({ key: process.env.ESRI_API_KEY ?? "" })
 
 console.log("Retriving Airtable...")
-const base = new Airtable().base(AIRTABLE_BASE_ID)
+const base = new Airtable().base(process.env.AIRTABLE_BASE_ID ?? "")
 const records = await base("data").select({ view: "Grid view" }).all()
 // We use [0, 0] for geocoding failure
 const requestRecords = records.filter(
