@@ -507,6 +507,425 @@
         "address": "彰化縣鹿港鎮竹圍巷臨52-1號",
         "estimated": true
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.31772613600003,
+          23.928802790000077
+        ]
+      },
+      "properties": {
+        "no": 31,
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-07T04:30:00.000Z",
+        "location": " 芳苑普天宮 (午餐)",
+        "address": "彰化縣芳苑鄉芳漢路芳二段161巷100號",
+        "estimated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.30499996600008,
+          23.567600000000027
+        ]
+      },
+      "properties": {
+        "no": 32,
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-07T07:00:00.000Z",
+        "location": "北港朝天宮",
+        "address": "雲林縣北港鎮中山路178號",
+        "estimated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.15727998700004,
+          23.378039991000037
+        ]
+      },
+      "properties": {
+        "no": 33,
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-07T09:00:00.000Z",
+        "location": "布袋家應廟",
+        "address": "嘉義縣布袋鎮入船路32號",
+        "estimated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.16038003400001,
+          23.326999984000054
+        ]
+      },
+      "properties": {
+        "no": 34,
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-07T11:00:00.000Z",
+        "location": "新塭嘉應廟",
+        "address": "嘉義縣布袋鎮復興里新塭81號",
+        "estimated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.13524000000007,
+          23.28753000000006
+        ]
+      },
+      "properties": {
+        "no": 35,
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-07T13:30:00.000Z",
+        "end": "2021-05-07T23:00:00.000Z",
+        "location": "南鯤鯓",
+        "address": "台南市北門區蚵寮里976號",
+        "estimated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1572786,
+          23.3311031
+        ]
+      },
+      "properties": {
+        "no": 36,
+        "location": "嘉應廟衝水路",
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-08T00:00:00.000Z",
+        "end": "2021-05-08T05:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2211500300001,
+          24.86503999000007
+        ]
+      },
+      "properties": {
+        "no": 37,
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-08T09:30:00.000Z",
+        "location": "桃園龍潭儷宴餐廳",
+        "address": "桃園市龍潭區五福街192號"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49243996500002,
+          25.028819989000056
+        ]
+      },
+      "properties": {
+        "no": 38,
+        "location": "萬華青龍宮",
+        "address": "台北市萬華區雙園街60巷88號",
+        "estimated": true,
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-08T12:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.74593000800007,
+          25.132980014000054
+        ]
+      },
+      "properties": {
+        "no": 39,
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-08T10:30:00.000Z",
+        "end": "2021-05-08T11:30:00.000Z",
+        "location": "小峨嵋川菜館",
+        "address": "基隆市中正區義一路58號",
+        "estimated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49817997700006,
+          25.036100007000073
+        ]
+      },
+      "properties": {
+        "no": 40,
+        "location": "鴻達茶藝館",
+        "address": "台北市萬華區三水街112號",
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-08T03:00:00.000Z",
+        "end": "2021-05-08T06:00:00.000Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4985600120001,
+          25.036189987000057
+        ]
+      },
+      "properties": {
+        "no": 41,
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-08T09:30:00.000Z",
+        "end": "2021-05-08T15:30:00.000Z",
+        "location": "娘子小吃店",
+        "address": "台北市萬華區廣州街186巷11號"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49820000900002,
+          25.036100007000073
+        ]
+      },
+      "properties": {
+        "no": 42,
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-08T06:00:00.000Z",
+        "end": "2021-05-08T14:00:00.000Z",
+        "location": "美金飲酒店",
+        "address": "台北市萬華區三水街110號",
+        "estimated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.77193997500001,
+          24.67951000000005
+        ]
+      },
+      "properties": {
+        "no": 43,
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-09T08:00:00.000Z",
+        "end": "2021-05-09T18:00:00.000Z",
+        "location": "銀河百家樂",
+        "address": "宜蘭縣羅東鎮中正北路42號2樓",
+        "estimated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7546155230001,
+          24.75741641600007
+        ]
+      },
+      "properties": {
+        "no": 44,
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-09T08:00:00.000Z",
+        "end": "2021-05-09T18:00:00.000Z",
+        "location": "大地球遊藝場",
+        "address": "宜蘭縣宜蘭市新民路121號B1",
+        "estimated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49820000900002,
+          25.036100007000073
+        ]
+      },
+      "properties": {
+        "no": 45,
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-09T06:00:00.000Z",
+        "end": "2021-05-09T14:00:00.000Z",
+        "location": "美金飲酒店",
+        "address": "台北市萬華區三水街110號",
+        "estimated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.77193997500001,
+          24.67951000000005
+        ]
+      },
+      "properties": {
+        "no": 46,
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-09T17:51:00.000Z",
+        "end": "2021-05-09T19:49:00.000Z",
+        "location": "銀河百家樂",
+        "address": "宜蘭縣羅東鎮中正北路42號2樓"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.77088144000004,
+          24.826749663000044
+        ]
+      },
+      "properties": {
+        "no": 47,
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-10T08:36:00.000Z",
+        "end": "2021-05-10T15:08:00.000Z",
+        "location": "巨城電玩",
+        "address": "宜蘭縣礁溪鄉信義路34巷17號"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49941002100002,
+          25.037779992000026
+        ]
+      },
+      "properties": {
+        "no": 48,
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-10T07:00:00.000Z",
+        "end": "2021-05-10T15:00:00.000Z",
+        "location": "楓香清茶館",
+        "address": "台北市萬華區西園路一段136巷16弄10號"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49820000900002,
+          25.036100007000073
+        ]
+      },
+      "properties": {
+        "no": 49,
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-10T06:00:00.000Z",
+        "end": "2021-05-10T14:00:00.000Z",
+        "location": "美金飲酒店",
+        "address": "台北市萬華區三水街110號"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.42513998900006,
+          24.995760003000044
+        ]
+      },
+      "properties": {
+        "no": 50,
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-10T23:00:00.000Z",
+        "end": "2021-05-10T23:40:00.000Z",
+        "location": "Q burger 樹林千歲店",
+        "address": "新北市樹林區千歲街12號"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.42831999900011,
+          24.993699982000066
+        ]
+      },
+      "properties": {
+        "no": 51,
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-10T23:40:00.000Z",
+        "end": "2021-05-11T01:00:00.000Z",
+        "location": "保安市場",
+        "address": "新北市樹林區保安街一段14巷17號"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.49820000900002,
+          25.036100007000073
+        ]
+      },
+      "properties": {
+        "no": 52,
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-11T08:00:00.000Z",
+        "end": "2021-05-11T13:00:00.000Z",
+        "location": "美金飲酒店",
+        "address": "台北市萬華區三水街110號",
+        "estimated": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.42831999900011,
+          24.993699982000066
+        ]
+      },
+      "properties": {
+        "no": 53,
+        "location": "保安市場",
+        "address": "新北市樹林區保安街一段14巷17號",
+        "case": "萬華茶藝館群聚案",
+        "start": "2021-05-11T23:00:00.000Z",
+        "end": "2021-05-12T00:00:00.000Z"
+      }
     }
   ]
 }
