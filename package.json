@@ -1,0 +1,33 @@
+{
+  "name": "covid-footprints-tw",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A collaboration approach on arranging confimed cases footprints in Taiwan/",
+  "scripts": {
+    "go": "node --experimental-repl-await --loader ts-node/esm index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littlebtc/covid-footprints-tw.git"
+  },
+  "author": "Hsiao-Ting Yu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/littlebtc/covid-footprints-tw/issues"
+  },
+  "homepage": "https://github.com/littlebtc/covid-footprints-tw#readme",
+  "dependencies": {
+    "@esri/arcgis-rest-auth": "^3.0.5",
+    "@esri/arcgis-rest-geocoding": "^3.0.5",
+    "@esri/arcgis-rest-request": "^3.0.5",
+    "airtable": "^0.11.0",
+    "isomorphic-form-data": "^2.0.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "@types/isomorphic-form-data": "^2.0.0",
+    "@types/node-fetch": "^2.5.10",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}
