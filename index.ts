@@ -25,8 +25,8 @@ const records = await base("data").select({ view: "Grid view" }).all()
 const requestRecords = records.filter(
   (record) =>
     record.get("address") &&
-    record.get("latitude") !== 0 &&
-    record.get("longitude") !== 0
+    record.get("latitude") == null &&
+    record.get("longitude") == null
 )
 
 console.log(`${requestRecords.length} geocoding needed`)
