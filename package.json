@@ -4,7 +4,8 @@
   "version": "1.0.0",
   "description": "A collaboration approach on arranging confimed cases footprints in Taiwan/",
   "scripts": {
-    "go": "node --experimental-repl-await --loader ts-node/esm index.ts"
+    "go": "node --experimental-repl-await --loader ts-node/esm index.ts",
+    "dump": "node --experimental-repl-await --loader ts-node/esm dump.ts"
   },
   "repository": {
     "type": "git",
@@ -20,13 +21,16 @@
     "@esri/arcgis-rest-auth": "^3.0.5",
     "@esri/arcgis-rest-geocoding": "^3.0.5",
     "@esri/arcgis-rest-request": "^3.0.5",
+    "@types/geojson": "^7946.0.7",
     "airtable": "^0.11.0",
     "isomorphic-form-data": "^2.0.0",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "prettier": "^2.3.0"
   },
   "devDependencies": {
     "@types/isomorphic-form-data": "^2.0.0",
     "@types/node-fetch": "^2.5.10",
+    "@types/prettier": "^2.2.3",
     "ts-node": "^9.1.1",
     "typescript": "^4.2.4"
   }

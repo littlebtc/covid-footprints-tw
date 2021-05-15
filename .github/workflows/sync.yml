@@ -1,4 +1,4 @@
-name: Sync
+name: Dump 
 on:
   schedule:
     - cron: "*/5 * * * *"
@@ -19,9 +19,11 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
       - run: npm install
-      - run: npm run go
+      - run: npm run dump
         env:
           AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
           AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}
-          ESRI_API_KEY: ${{ secrets.ESRI_API_KEY }}
-  
+      - uses: EndBug/add-and-commit@v7
+        with:
+          add: ./result.geojson
+          message: "data: sync GeoJSON from Airtable"  
